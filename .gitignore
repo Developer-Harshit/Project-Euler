@@ -23,3 +23,6 @@ go.work.sum
 
 # vim configs
 .vim/*
+
+# input data
+data/*
