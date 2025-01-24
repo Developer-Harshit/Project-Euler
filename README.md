@@ -6,3 +6,5 @@ Also, I'm hard coding the solutions based on the input provided on the problem. 
 ### Progress
 - [x] Day 1 18/01/2025 _> 8 Questions Solved
 - [x] Day 2 21/01/2025 _> 7 Questions Solved
+- [x] Day 3 23/01/2025 _> 5 Questions Solved
+- [x] Day 4 24/01/2025 _> 5 Questions Solved
